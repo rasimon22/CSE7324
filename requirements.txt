@@ -13,10 +13,12 @@ Brlapi==0.6.6
 certifi==2018.11.29
 chardet==3.0.4
 chrome-gnome-shell==0.0.0
+cloudpickle==0.8.0
 command-not-found==0.3
 cryptography==2.1.4
 cupshelpers==1.0
 cycler==0.10.0
+dask==1.1.2
 decorator==4.3.2
 defer==1.0.6
 defusedxml==0.5.0
@@ -66,6 +68,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 neovim==0.2.0
 netifaces==0.10.4
+networkx==2.2
 notebook==5.7.4
 numba==0.42.1
 numpy==1.16.1
@@ -76,7 +79,7 @@ pandocfilters==1.4.2
 parso==0.3.2
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.1.0
+Pillow==5.4.1
 plotly==3.5.0
 pluggy==0.8.1
 prometheus-client==0.5.0
@@ -98,10 +101,11 @@ pyPEG2==2.15.2
 pyRFC3339==1.0
 pytest==4.3.0
 python-apt==1.6.3+ubuntu1
-python-dateutil==2.7.5
+python-dateutil==2.8.0
 python-debian==0.1.32
 pytools==2019.1
 pytz==2018.9
+PyWavelets==1.0.2
 pyxdg==0.25
 PyYAML==3.12
 pyzmq==17.1.2
@@ -113,8 +117,9 @@ requests-unixsocket==0.1.5
 retrying==1.3.3
 ruamel.yaml==0.15.34
 scikit-cuda==0.5.2
+scikit-image==0.14.2
 scikit-learn==0.20.2
-scipy==1.2.0
+scipy==1.2.1
 screen-resolution-extra==0.0.0
 seaborn==0.9.0
 SecretStorage==2.3.1
@@ -128,6 +133,7 @@ tensorflow==1.12.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
+toolz==0.9.0
 tornado==5.1.1
 traitlets==4.3.2
 ubuntu-drivers-common==0.0.0
