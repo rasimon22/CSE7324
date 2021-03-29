@@ -92,7 +92,7 @@ pycrypto==2.6.1
 pycuda==2018.1.1
 pyculib==1.0.1
 pycups==1.9.73
-Pygments==2.3.1
+Pygments==2.7.4
 pygobject==3.26.1
 pymacaroons==0.13.0
 PyNaCl==1.1.2
