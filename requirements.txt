@@ -64,7 +64,7 @@ matplotlib==3.0.2
 mistune==0.8.4
 more-itertools==6.0.0
 msgpack==0.5.6
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 neovim==0.2.0
 netifaces==0.10.4
